@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "186416318404",
+    "project_id": "first-auth-5c1ac",
+    "storage_bucket": "first-auth-5c1ac.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186416318404:android:572641bb6a7d48af68c691",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4blnck2sdR2fFKUhT9BJ2PmyiV-YvmbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
